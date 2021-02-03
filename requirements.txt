@@ -1,1 +1,1 @@
-sampleproject==2.0.0
+wrapt==1.12.1
